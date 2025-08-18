@@ -42,10 +42,11 @@
 ## 📌 Featured Projects
 
 ### 🔐 Backend & API Development
-- [🔑 FastAPI Auth](https://github.com/ayushupadhyay21/fastapi-auth) — Authentication system built with **FastAPI**  
+- [🔑 FastAPI Auth](https://github.com/ayushupadhyay21/fastapi-auth) — Authentication system built with **FastAPI**
+- [👷 Go Worker Pool](https://github.com/ayushupadhyay21/go-worker-pool) — A concurrent worker pool in **Go** using goroutines & channels  
 - [⚡ Golang Services](https://github.com/ayushupadhyay21) *(placeholder)* — REST APIs & microservices in **Go**  
 - [🚀 SQL-Python-Ecommerce-Project](https://github.com/ayushupadhyay21/SQL-Python-Ecommerce-Project) — Ecommerce analytics & APIs with **SQL + Python**  
-- [👷 Go Worker Pool](https://github.com/yourusername/go-worker-pool) — A concurrent worker pool in **Go** using goroutines & channels  
+
 
 ### 📊 Data Analytics & Dashboards
 - [🚖 Ola Project](https://github.com/ayushupadhyay21/Ola-Project) — Ride cancellations & trip insights dashboard  
