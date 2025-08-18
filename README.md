@@ -44,8 +44,7 @@
 ### 🔐 Backend & API Development
 - [📝 Go PostgreSQL Task CRUD API](https://github.com/ayushupadhyay21/go-crud-postgres) — Pure **Go** REST API with **PostgreSQL**, supports full CRUD operations for tasks using `net/http`. Tested with **Postman** & PowerShell commands.
 - [🔑 FastAPI Auth](https://github.com/ayushupadhyay21/fastapi-auth) — Authentication system built with **FastAPI**
-- [👷 Go Worker Pool](https://github.com/ayushupadhyay21/go-worker-pool) — A concurrent worker pool in **Go** using goroutines & channels  
-- [⚡ Golang Services](https://github.com/ayushupadhyay21) *(placeholder)* — REST APIs & microservices in **Go**  
+- [👷 Go Worker Pool](https://github.com/ayushupadhyay21/go-worker-pool) — A concurrent worker pool in **Go** using goroutines & channels    
 - [🚀 SQL-Python-Ecommerce-Project](https://github.com/ayushupadhyay21/SQL-Python-Ecommerce-Project) — Ecommerce analytics & APIs with **SQL + Python**  
 
 
