@@ -45,6 +45,7 @@
 - [🔑 FastAPI Auth](https://github.com/ayushupadhyay21/fastapi-auth) — Authentication system built with **FastAPI**  
 - [⚡ Golang Services](https://github.com/ayushupadhyay21) *(placeholder)* — REST APIs & microservices in **Go**  
 - [🚀 SQL-Python-Ecommerce-Project](https://github.com/ayushupadhyay21/SQL-Python-Ecommerce-Project) — Ecommerce analytics & APIs with **SQL + Python**  
+- [👷 Go Worker Pool](https://github.com/yourusername/go-worker-pool) — A concurrent worker pool in **Go** using goroutines & channels  
 
 ### 📊 Data Analytics & Dashboards
 - [🚖 Ola Project](https://github.com/ayushupadhyay21/Ola-Project) — Ride cancellations & trip insights dashboard  
@@ -60,6 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayushupadhyay21&show_icons=true&theme=tokyonight" height="160em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushupadhyay21&layout=compact&theme=tokyonight" height="160em" />
 </p>
+
 
 ---
 
