@@ -46,7 +46,7 @@
 ## 📌 Featured Projects
 
 ### ❤️ Machine Learning Project
-- [🩺 Heart Disease Prediction](https://github.com/ayushupadhyay21/heart-disease-prediction) — Interactive **Streamlit app** powered by a **KNN model** that predicts heart disease risk.  
+- [🩺 Heart Disease Prediction](https://github.com/ayushupadhyay21/Heart_Disease_Prediction_Model) — Interactive **Streamlit app** powered by a **KNN model** that predicts heart disease risk.  
   **Technologies Used:** `Python`, `pandas`, `scikit-learn`, `joblib`, `Streamlit`
 
 ### 🔐 Backend & API Development
