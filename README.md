@@ -41,19 +41,21 @@
 
 ## 📌 Featured Projects
 
+### ❤️ Machine Learning Project
+- [🩺 Heart Disease Prediction](https://github.com/ayushupadhyay21/heart-disease-prediction) — Interactive **Streamlit app** powered by a **KNN model** that predicts heart disease risk.  
+  **Technologies Used:** `Python`, `scikit-learn`, `pandas`, `joblib`, `Streamlit`
+
 ### 🔐 Backend & API Development
 - [📝 Go PostgreSQL Task CRUD API](https://github.com/ayushupadhyay21/go-crud-postgres) — Pure **Go** REST API with **PostgreSQL**, supports full CRUD operations for tasks using `net/http`. Tested with **Postman** & PowerShell commands.
 - [🔑 FastAPI Auth](https://github.com/ayushupadhyay21/fastapi-auth) — Authentication system built with **FastAPI**
 - [👷 Go Worker Pool](https://github.com/ayushupadhyay21/go-worker-pool) — A concurrent worker pool in **Go** using goroutines & channels    
 - [🚀 SQL-Python-Ecommerce-Project](https://github.com/ayushupadhyay21/SQL-Python-Ecommerce-Project) — Ecommerce analytics & APIs with **SQL + Python**  
 
-
 ### 📊 Data Analytics & Dashboards
 - [🚖 Ola Project](https://github.com/ayushupadhyay21/Ola-Project) — Ride cancellations & trip insights dashboard  
 - [📊 MySQL ETL Service Dashboard](https://github.com/ayushupadhyay21/MySQL-ETL-Service-Dashboard) — ETL & service data analysis  
 - [💰 EY Financial Risk Dashboard](https://github.com/ayushupadhyay21/EY-Financial-Risk-Dashboard) — Risk analysis for finance  
 - [📈 Customer Churn Analysis](https://github.com/ayushupadhyay21/Customer-Churn-Analysis) — Predictive analysis of customer retention  
-  
 
 ---
 
@@ -63,6 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayushupadhyay21&show_icons=true&theme=tokyonight" height="160em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushupadhyay21&layout=compact&theme=tokyonight" height="160em" />
 </p>
+
 
 
 ---
