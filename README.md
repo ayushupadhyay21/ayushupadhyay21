@@ -20,6 +20,10 @@
 <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel" />
+<img src="https://img.shields.io/badge/pandas-DataFrame-blue?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn" />
+<img src="https://img.shields.io/badge/Joblib-Model%20Persistence-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-WebApp-red?style=for-the-badge&logo=streamlit" />
 </p>
 
 ### 💻 Backend Development  
@@ -43,7 +47,7 @@
 
 ### ❤️ Machine Learning Project
 - [🩺 Heart Disease Prediction](https://github.com/ayushupadhyay21/heart-disease-prediction) — Interactive **Streamlit app** powered by a **KNN model** that predicts heart disease risk.  
-  **Technologies Used:** `Python`, `scikit-learn`, `pandas`, `joblib`, `Streamlit`
+  **Technologies Used:** `Python`, `pandas`, `scikit-learn`, `joblib`, `Streamlit`
 
 ### 🔐 Backend & API Development
 - [📝 Go PostgreSQL Task CRUD API](https://github.com/ayushupadhyay21/go-crud-postgres) — Pure **Go** REST API with **PostgreSQL**, supports full CRUD operations for tasks using `net/http`. Tested with **Postman** & PowerShell commands.
@@ -65,6 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayushupadhyay21&show_icons=true&theme=tokyonight" height="160em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushupadhyay21&layout=compact&theme=tokyonight" height="160em" />
 </p>
+
 
 
 
