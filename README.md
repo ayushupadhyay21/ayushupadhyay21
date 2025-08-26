@@ -40,19 +40,19 @@
 ## 📌 Featured Projects
 
 ### ❤️ Machine Learning
-- 🩺 [Heart_Disease_Prediction_Model](https://github.com/ayushupadhyay21/Heart_Disease_Prediction_Model) — Streamlit app using KNN for heart disease risk.  
+- 🩺 [Heart Disease Prediction Model](https://github.com/ayushupadhyay21/Heart_Disease_Prediction_Model) — Streamlit app using KNN for heart disease risk.  
   *Tech:* Python, Pandas, Scikit-learn, Joblib, Streamlit  
 
 ### 🔐 Backend & API Development
+- 🔑 [TokenHaven - Modern FastAPI Authentication System](https://github.com/ayushupadhyay21/fastapi-auth) — Authentication system with FastAPI.  
 - 📝 [go-crud-postgres](https://github.com/ayushupadhyay21/go-crud-postgres) — Pure Go REST API with PostgreSQL (full CRUD).  
-- 🔑 [fastapi-auth](https://github.com/ayushupadhyay21/fastapi-auth) — Authentication system with FastAPI.  
 - 🧩 [fastapi-crud-postgres](https://github.com/ayushupadhyay21/fastapi-crud-postgres) — FastAPI + PostgreSQL CRUD service.  
 - 👷 [go-worker-pool](https://github.com/ayushupadhyay21/go-worker-pool) — Concurrent worker pool using goroutines & channels.  
 
 ### 📊 Data Analytics & Dashboards
-- 🚖 [Ola-Project](https://github.com/ayushupadhyay21/Ola-Project) — Ride cancellations & trip insights dashboard.  
-- 💰 [EY-Financial-Risk-Dashboard](https://github.com/ayushupadhyay21/EY-Financial-Risk-Dashboard) — Finance risk analytics.  
+- 🚖 [Ola-Project](https://github.com/ayushupadhyay21/Ola-Project) — Ride cancellations & trip insights dashboard.
 - 🔄 [MySQL-ETL-Service-Dashboard](https://github.com/ayushupadhyay21/MySQL-ETL-Service-Dashboard) — ETL + service performance dashboard.  
+- 💰 [EY-Financial-Risk-Dashboard](https://github.com/ayushupadhyay21/EY-Financial-Risk-Dashboard) — Finance risk analytics.  
 - 📈 [Customer-Churn-Analysis](https://github.com/ayushupadhyay21/Customer-Churn-Analysis) — Retention prediction & insights.  
 - 🏪 [Business-Performance-Dashboard---Retail-Chain](https://github.com/ayushupadhyay21/Business-Performance-Dashboard---Retail-Chain) — Retail KPIs and performance tracking.  
 - 🛒 [Ecommerce-Sales-Dashboard](https://github.com/ayushupadhyay21/Ecommerce-Sales-Dashboard) — Sales trends & revenue analysis.  
