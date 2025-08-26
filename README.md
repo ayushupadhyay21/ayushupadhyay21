@@ -1,78 +1,66 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ayush Upadhyay</h1>
+<h3 align="center">Data Analyst | Backend Developer | Turning Data & Code into Impact 🚀</h3>
 
-# Hi 👋, I'm Ayush Upadhyay
+🌱 Currently Learning: Machine Learning + Cloud Data Engineering
+💬 Ask Me About: Power BI, SQL, Python, ETL, Backend APIs
+📫 Reach Me: LinkedIn
+⚡ Fun Fact: Data without insights is like code without execution 😉
 
-### 🚀 Data Analyst | Backend Developer | Turning Data & Code into Impact
+🛠 Skills & Tools
+📊 Data & Analytics
+<p>
+<img src="https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=for-the-badge&logo=powerbi" />
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/ETL-Data%20Pipelines-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel" />
+<img src="https://img.shields.io/badge/pandas-DataFrame-blue?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn" />
+<img src="https://img.shields.io/badge/Joblib-Model%20Persistence-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-WebApp-red?style=for-the-badge&logo=streamlit" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-upadhyay-59b0901ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushupadhyay21)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush@example.com)
+💻 Backend Development
+<p>
+<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express.js-API-blue?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/Go-Backend-blue?style=for-the-badge&logo=go" />
+</p>
 
-</div>
+🌐 Frontend Development
+<p>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
 
----
+📌 Featured Projects
+❤️ Machine Learning Project
+🩺 Heart Disease Prediction — Interactive Streamlit app powered by a KNN model that predicts heart disease risk.
+Technologies Used: Python, pandas, scikit-learn, joblib, Streamlit
 
-## 🎯 About Me
+🔐 Backend & API Development
+📝 Go PostgreSQL Task CRUD API — Pure Go REST API with PostgreSQL, supports full CRUD operations for tasks using net/http. Tested with Postman & PowerShell commands.
 
-🚀 **Role:** Data Analyst & Backend Developer  
-📍 **Location:** India 🇮🇳  
-🌱 **Learning:** Machine Learning + Cloud Engineering  
-💬 **Ask Me About:** Power BI, SQL, Python, ETL, APIs  
-⚡ **Philosophy:** *"Data without insights is like code without execution"* 😉
+🔑 FastAPI Auth — Authentication system built with FastAPI
 
----
+👷 Go Worker Pool — A concurrent worker pool in Go using goroutines & channels
 
-## 🛠️ Tech Stack
+🚀 SQL-Python-Ecommerce-Project — Ecommerce analytics & APIs with SQL + Python
 
-<div align="center">
+📊 Data Analytics & Dashboards
+🚖 Ola Project — Ride cancellations & trip insights dashboard
 
-**📊 Data & Analytics**  
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+📊 MySQL ETL Service Dashboard — ETL & service data analysis
 
-**💻 Backend Development**  
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,go" />
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+💰 EY Financial Risk Dashboard — Risk analysis for finance
 
-**🌐 Frontend & Tools**  
-<img src="https://skillicons.dev/icons?i=html,css,js,git" />
+📈 Customer Churn Analysis — Predictive analysis of customer retention
 
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🩺 [Heart Disease Prediction](https://github.com/ayushupadhyay21/Heart_Disease_Prediction_Model) | Interactive ML web app with KNN model | `Python` `Streamlit` `scikit-learn` |
-| 🔐 [TokenHaven Auth](https://github.com/ayushupadhyay21/fastapi-auth) | Modern JWT authentication system | `FastAPI` `JWT` `PostgreSQL` |
-| 📝 [Go CRUD API](https://github.com/ayushupadhyay21/go-crud-postgres) | High-performance REST API | `Go` `PostgreSQL` `REST` |
-| 📈 [Customer Churn Analysis](https://github.com/ayushupadhyay21/Customer-Churn-Analysis) | Predictive analytics dashboard | `Python` `Power BI` `SQL` |
-| 🚖 [Ola Analytics](https://github.com/ayushupadhyay21/Ola-Project) | Ride insights & trip analysis | `SQL` `Power BI` `Analytics` |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayushupadhyay21&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushupadhyay21&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-*"Building scalable solutions, one line of code at a time"* 🚀
-
-</div>
+📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayushupadhyay21&show_icons=true&theme=tokyonight" height="160em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushupadhyay21&layout=compact&theme=tokyonight" height="160em" />
+</p>
