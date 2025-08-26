@@ -14,23 +14,15 @@
 
 ## 🎯 About Me
 
-```python
-class AyushUpadhyay:
-    def __init__(self):
-        self.role = "Data Analyst & Backend Developer"
-        self.location = "India 🇮🇳"
-        self.current_focus = ["Machine Learning", "Cloud Data Engineering"]
-        self.expertise = ["Power BI", "SQL", "Python", "ETL", "Backend APIs"]
-        self.philosophy = "Data without insights is like code without execution 😉"
-    
-    def get_skills(self):
-        return {
-            "data_analytics": ["SQL", "Power BI", "Python", "ETL", "Excel"],
-            "backend": ["FastAPI", "Node.js", "Go", "PostgreSQL"],
-            "machine_learning": ["scikit-learn", "pandas", "Streamlit"],
-            "frontend": ["HTML5", "CSS3", "JavaScript"]
-        }
-```
+<div align="center">
+
+🚀 **Role:** Data Analyst & Backend Developer  
+📍 **Location:** India 🇮🇳  
+🌱 **Currently Learning:** Machine Learning + Cloud Data Engineering  
+💬 **Ask Me About:** Power BI, SQL, Python, ETL, Backend APIs  
+⚡ **Philosophy:** Data without insights is like code without execution 😉
+
+</div>
 
 ---
 
@@ -208,16 +200,3 @@ graph LR
 *"Turning complex data into simple insights, one algorithm at a time"* 🚀
 
 </div>
-
-
-
-
----
-
-## 🤝 Connect with Me
-<p>
-<a href="https://www.linkedin.com/in/ayush-upadhyay-59b0901ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:ayushupadhyay0713@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
-
