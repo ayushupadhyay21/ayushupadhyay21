@@ -5,7 +5,7 @@
 
 🌱 **Currently Learning:** Machine Learning + Cloud Data Engineering  
 💬 **Ask Me About:** Power BI, SQL, Python, ETL, Backend APIs  
-📫 **Reach Me:** [LinkedIn](#)  
+📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/ayushupadhyay21)  
 ⚡ **Fun Fact:** Data without insights is like code without execution 😉
 
 ---
