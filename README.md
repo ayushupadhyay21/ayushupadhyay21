@@ -37,23 +37,27 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
-### ❤️ Machine Learning Project  
-- 🩺 [Heart Disease Prediction](https://github.com/ayushupadhyay21/Heart-Disease-Prediction) — Interactive Streamlit app powered by a KNN model.  
+### ❤️ Machine Learning
+- 🩺 [Heart_Disease_Prediction_Model](https://github.com/ayushupadhyay21/Heart_Disease_Prediction_Model) — Streamlit app using KNN for heart disease risk.  
   *Tech:* Python, Pandas, Scikit-learn, Joblib, Streamlit  
 
-### 🔐 Backend & API Development  
-- 📝 [Go PostgreSQL Task CRUD API](https://github.com/ayushupadhyay21/go-crud-postgres) — Pure Go REST API with PostgreSQL & full CRUD support.  
-- 🔑 [FastAPI Auth](https://github.com/ayushupadhyay21/FastAPI-Auth) — Authentication system with FastAPI.  
-- 👷 [Go Worker Pool](https://github.com/ayushupadhyay21/Go-Worker-Pool) — Concurrent worker pool in Go using goroutines & channels.  
-- 🚀 [Ecommerce Analytics API](https://github.com/ayushupadhyay21/SQL-Python-Ecommerce-Project) — SQL + Python APIs for ecommerce insights.  
+### 🔐 Backend & API Development
+- 📝 [go-crud-postgres](https://github.com/ayushupadhyay21/go-crud-postgres) — Pure Go REST API with PostgreSQL (full CRUD).  
+- 🔑 [fastapi-auth](https://github.com/ayushupadhyay21/fastapi-auth) — Authentication system with FastAPI.  
+- 🧩 [fastapi-crud-postgres](https://github.com/ayushupadhyay21/fastapi-crud-postgres) — FastAPI + PostgreSQL CRUD service.  
+- 👷 [go-worker-pool](https://github.com/ayushupadhyay21/go-worker-pool) — Concurrent worker pool using goroutines & channels.  
 
-### 📊 Data Analytics & Dashboards  
-- 🚖 [Ola Project](https://github.com/ayushupadhyay21/Ola-Data-Analysis) — Ride cancellations & trip insights dashboard.  
-- 📊 [MySQL ETL Service Dashboard](https://github.com/ayushupadhyay21/MySQL-ETL-Dashboard) — ETL + service data analysis.  
-- 💰 [EY Financial Risk Dashboard](https://github.com/ayushupadhyay21/EY-Financial-Risk-Dashboard) — Risk analysis for finance.  
-- 📈 [Customer Churn Analysis](https://github.com/ayushupadhyay21/Customer-Churn-Analysis) — Predictive analysis of retention.  
+### 📊 Data Analytics & Dashboards
+- 🚖 [Ola-Project](https://github.com/ayushupadhyay21/Ola-Project) — Ride cancellations & trip insights dashboard.  
+- 💰 [EY-Financial-Risk-Dashboard](https://github.com/ayushupadhyay21/EY-Financial-Risk-Dashboard) — Finance risk analytics.  
+- 🔄 [MySQL-ETL-Service-Dashboard](https://github.com/ayushupadhyay21/MySQL-ETL-Service-Dashboard) — ETL + service performance dashboard.  
+- 📈 [Customer-Churn-Analysis](https://github.com/ayushupadhyay21/Customer-Churn-Analysis) — Retention prediction & insights.  
+- 🏪 [Business-Performance-Dashboard---Retail-Chain](https://github.com/ayushupadhyay21/Business-Performance-Dashboard---Retail-Chain) — Retail KPIs and performance tracking.  
+- 🛒 [Ecommerce-Sales-Dashboard](https://github.com/ayushupadhyay21/Ecommerce-Sales-Dashboard) — Sales trends & revenue analysis.  
+- 🏨 [Hotel-Booking-Cancellations-Dashboard](https://github.com/ayushupadhyay21/Hotel-Booking-Cancellations-Dashboard) — Booking/cancellation insights.  
+- 🧾 [SQL-Python-Ecommerce-Project](https://github.com/ayushupadhyay21/SQL-Python-Ecommerce-Project) — Ecommerce analytics + APIs with SQL & Python.
 
 ---
 
