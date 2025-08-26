@@ -1,74 +1,213 @@
-<h1 align="center">Hi 👋, I'm Ayush Upadhyay</h1>
-<h3 align="center">Data Analyst | Backend Developer | Turning Data & Code into Impact 🚀</h3>
+<div align="center">
+
+# 👋 Hi, I'm Ayush Upadhyay
+
+### 🚀 Data Analyst | Backend Developer | Turning Data & Code into Impact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-upadhyay-59b0901ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushupadhyay21)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](#)
+
+</div>
 
 ---
 
-🌱 **Currently Learning:** Machine Learning + Cloud Data Engineering  
-💬 **Ask Me About:** Power BI, SQL, Python, ETL, Backend APIs  
-📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/ayush-upadhyay-59b0901ab/)  
-⚡ **Fun Fact:** Data without insights is like code without execution 😉
+## 🎯 About Me
+
+```python
+class AyushUpadhyay:
+    def __init__(self):
+        self.role = "Data Analyst & Backend Developer"
+        self.location = "India 🇮🇳"
+        self.current_focus = ["Machine Learning", "Cloud Data Engineering"]
+        self.expertise = ["Power BI", "SQL", "Python", "ETL", "Backend APIs"]
+        self.philosophy = "Data without insights is like code without execution 😉"
+    
+    def get_skills(self):
+        return {
+            "data_analytics": ["SQL", "Power BI", "Python", "ETL", "Excel"],
+            "backend": ["FastAPI", "Node.js", "Go", "PostgreSQL"],
+            "machine_learning": ["scikit-learn", "pandas", "Streamlit"],
+            "frontend": ["HTML5", "CSS3", "JavaScript"]
+        }
+```
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠️ Tech Arsenal
 
-### 📊 Data & Analytics  
-<p>
-<img src="https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=for-the-badge&logo=powerbi" />
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/ETL-Data%20Pipelines-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoftexcel" />
-<img src="https://img.shields.io/badge/pandas-DataFrame-blue?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn" />
-<img src="https://img.shields.io/badge/Joblib-Model%20Persistence-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Streamlit-WebApp-red?style=for-the-badge&logo=streamlit" />
-</p>
+<div align="center">
 
-### 💻 Backend Development  
-<p>
-<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express.js-API-blue?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/Go-Backend-blue?style=for-the-badge&logo=go" />
-</p>
+### 📊 Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🌐 Frontend Development  
-<p>
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-</p>
+### 💻 Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🌐 Frontend & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### ❤️ Machine Learning Project
-- [🩺 Heart Disease Prediction](https://github.com/ayushupadhyay21/Heart_Disease_Prediction_Model) — Interactive **Streamlit app** powered by a **KNN model** that predicts heart disease risk.  
-  **Technologies Used:** `Python`, `pandas`, `scikit-learn`, `joblib`, `Streamlit`
+<div align="center">
 
-### 🔐 Backend & API Development
-- [📝 Go PostgreSQL Task CRUD API](https://github.com/ayushupadhyay21/go-crud-postgres) — Pure **Go** REST API with **PostgreSQL**, supports full CRUD operations for tasks using `net/http`. Tested with **Postman** & PowerShell commands.
-- [🔑 FastAPI Auth](https://github.com/ayushupadhyay21/fastapi-auth) — Authentication system built with **FastAPI**
-- [👷 Go Worker Pool](https://github.com/ayushupadhyay21/go-worker-pool) — A concurrent worker pool in **Go** using goroutines & channels    
-- [🚀 SQL-Python-Ecommerce-Project](https://github.com/ayushupadhyay21/SQL-Python-Ecommerce-Project) — Ecommerce analytics & APIs with **SQL + Python**  
+### 🤖 Machine Learning & AI
+<table>
+<tr>
+<td width="50%">
+
+**🩺 Heart Disease Prediction**
+- Interactive **Streamlit** web app
+- **KNN model** for risk prediction
+- Real-time health assessment
+- [`View Project →`](https://github.com/ayushupadhyay21/Heart_Disease_Prediction_Model)
+
+*Tech: Python, scikit-learn, Streamlit, pandas*
+
+</td>
+<td width="50%">
+
+**📈 Customer Churn Analysis**
+- Predictive analytics dashboard
+- Customer retention insights
+- Advanced data visualization
+- [`View Project →`](https://github.com/ayushupadhyay21/Customer-Churn-Analysis)
+
+*Tech: Python, Power BI, SQL*
+
+</td>
+</tr>
+</table>
+
+### 🔧 Backend & API Development
+<table>
+<tr>
+<td width="50%">
+
+**🔐 TokenHaven Auth System**
+- Modern **FastAPI** authentication
+- JWT security implementation
+- Beautiful responsive UI
+- [`View Project →`](https://github.com/ayushupadhyay21/fastapi-auth)
+
+*Tech: FastAPI, JWT, SQLAlchemy, PostgreSQL*
+
+</td>
+<td width="50%">
+
+**📝 Go PostgreSQL CRUD API**
+- Pure **Go** REST API
+- Full CRUD operations
+- High-performance backend
+- [`View Project →`](https://github.com/ayushupadhyay21/go-crud-postgres)
+
+*Tech: Go, PostgreSQL, REST API*
+
+</td>
+</tr>
+</table>
 
 ### 📊 Data Analytics & Dashboards
-- [🚖 Ola Project](https://github.com/ayushupadhyay21/Ola-Project) — Ride cancellations & trip insights dashboard  
-- [📊 MySQL ETL Service Dashboard](https://github.com/ayushupadhyay21/MySQL-ETL-Service-Dashboard) — ETL & service data analysis  
-- [💰 EY Financial Risk Dashboard](https://github.com/ayushupadhyay21/EY-Financial-Risk-Dashboard) — Risk analysis for finance  
-- [📈 Customer Churn Analysis](https://github.com/ayushupadhyay21/Customer-Churn-Analysis) — Predictive analysis of customer retention  
+<table>
+<tr>
+<td width="33%">
+
+**🚖 Ola Analytics**
+- Ride cancellation insights
+- Trip pattern analysis
+- Interactive dashboards
+- [`View →`](https://github.com/ayushupadhyay21/Ola-Project)
+
+</td>
+<td width="33%">
+
+**💰 EY Financial Risk**
+- Risk assessment models
+- Financial data analysis
+- Compliance reporting
+- [`View →`](https://github.com/ayushupadhyay21/EY-Financial-Risk-Dashboard)
+
+</td>
+<td width="33%">
+
+**🛠️ MySQL ETL Service**
+- Data pipeline automation
+- Service monitoring
+- Performance analytics
+- [`View →`](https://github.com/ayushupadhyay21/MySQL-ETL-Service-Dashboard)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushupadhyay21&show_icons=true&theme=tokyonight" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushupadhyay21&layout=compact&theme=tokyonight" height="160em" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushupadhyay21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushupadhyay21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="180em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushupadhyay21&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" height="180em" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🧠 Machine Learning] --> B[☁️ Cloud Data Engineering]
+    B --> C[🚀 Scalable APIs]
+    C --> D[📊 Advanced Analytics]
+    D --> A
+```
+
+**🌱 Learning:** Advanced ML Algorithms, AWS/Azure Data Services, Microservices Architecture
+
+**💡 Building:** Next-gen data pipelines, AI-powered analytics tools, scalable backend systems
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Collaborate!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-upadhyay-59b0901ab/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+**⚡ Fun Fact:** I believe the best code is like a good story - it should be clear, engaging, and leave the reader wanting more! 📚✨
+
+---
+
+*"Turning complex data into simple insights, one algorithm at a time"* 🚀
+
+</div>
 
 
 
