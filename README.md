@@ -1,12 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm Ayush Upadhyay
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Upadhyay;Data+Analyst+%7C+Backend+Developer;Turning+Data+%26+Code+into+Impact+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 🚀 Data Analyst | Backend Developer | Turning Data & Code into Impact
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=ayushupadhyay21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-upadhyay-59b0901ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushupadhyay21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](#)
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-upadhyay-59b0901ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ayushupadhyay21">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:ayush@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 </div>
 
@@ -16,11 +27,41 @@
 
 <div align="center">
 
-🚀 **Role:** Data Analyst & Backend Developer  
-📍 **Location:** India 🇮🇳  
-🌱 **Currently Learning:** Machine Learning + Cloud Data Engineering  
-💬 **Ask Me About:** Power BI, SQL, Python, ETL, Backend APIs  
-⚡ **Philosophy:** Data without insights is like code without execution 😉
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🚀 Current Role**
+
+Data Analyst & Backend Developer
+
+**📍 Location**
+
+India 🇮🇳
+
+**🌱 Learning**
+
+Machine Learning + Cloud Engineering
+
+</td>
+<td align="center" width="50%">
+
+**💬 Ask Me About**
+
+Power BI • SQL • Python • ETL • APIs
+
+**⚡ Philosophy**
+
+*"Data without insights is like*  
+*code without execution"* 😉
+
+**🎯 Goal**
+
+Building scalable data solutions
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -30,26 +71,39 @@
 
 <div align="center">
 
-### 📊 Data & Analytics
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
 
-### 💻 Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+**📊 Data & Analytics**
 
-### 🌐 Frontend & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" /><br>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**💻 Backend Development**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,go,express" /><br>
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Frontend & Tools**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git" /><br>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -59,94 +113,86 @@
 
 <div align="center">
 
-### 🤖 Machine Learning & AI
+<!-- Project Cards with Modern Design -->
 <table>
 <tr>
 <td width="50%">
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushupadhyay21&repo=Heart_Disease_Prediction_Model&theme=tokyonight&hide_border=true" />
+</div>
 
 **🩺 Heart Disease Prediction**
-- Interactive **Streamlit** web app
-- **KNN model** for risk prediction
-- Real-time health assessment
-- [`View Project →`](https://github.com/ayushupadhyay21/Heart_Disease_Prediction_Model)
+- 🎯 Interactive ML web app
+- 🤖 KNN algorithm implementation  
+- 📊 Real-time health assessment
+- 🚀 Streamlit deployment
 
-*Tech: Python, scikit-learn, Streamlit, pandas*
+`Python` `scikit-learn` `Streamlit` `pandas`
 
 </td>
 <td width="50%">
 
-**📈 Customer Churn Analysis**
-- Predictive analytics dashboard
-- Customer retention insights
-- Advanced data visualization
-- [`View Project →`](https://github.com/ayushupadhyay21/Customer-Churn-Analysis)
-
-*Tech: Python, Power BI, SQL*
-
-</td>
-</tr>
-</table>
-
-### 🔧 Backend & API Development
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushupadhyay21&repo=fastapi-auth&theme=tokyonight&hide_border=true" />
+</div>
 
 **🔐 TokenHaven Auth System**
-- Modern **FastAPI** authentication
-- JWT security implementation
-- Beautiful responsive UI
-- [`View Project →`](https://github.com/ayushupadhyay21/fastapi-auth)
+- 🛡️ Modern JWT authentication
+- 🎨 Beautiful responsive UI
+- 🔒 Enterprise-grade security
+- ⚡ High-performance FastAPI
 
-*Tech: FastAPI, JWT, SQLAlchemy, PostgreSQL*
+`FastAPI` `JWT` `SQLAlchemy` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushupadhyay21&repo=go-crud-postgres&theme=tokyonight&hide_border=true" />
+</div>
+
+**📝 Go PostgreSQL CRUD API**
+- ⚡ High-performance Go backend
+- 🗄️ Full CRUD operations
+- 🔧 RESTful API design
+- 🧪 Comprehensive testing
+
+`Go` `PostgreSQL` `REST API` `net/http`
 
 </td>
 <td width="50%">
 
-**📝 Go PostgreSQL CRUD API**
-- Pure **Go** REST API
-- Full CRUD operations
-- High-performance backend
-- [`View Project →`](https://github.com/ayushupadhyay21/go-crud-postgres)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushupadhyay21&repo=Customer-Churn-Analysis&theme=tokyonight&hide_border=true" />
+</div>
 
-*Tech: Go, PostgreSQL, REST API*
+**📈 Customer Churn Analysis**
+- 📊 Predictive analytics dashboard
+- 💡 Customer retention insights
+- 📈 Advanced data visualization
+- 🎯 Business intelligence
 
-</td>
-</tr>
-</table>
-
-### 📊 Data Analytics & Dashboards
-<table>
-<tr>
-<td width="33%">
-
-**🚖 Ola Analytics**
-- Ride cancellation insights
-- Trip pattern analysis
-- Interactive dashboards
-- [`View →`](https://github.com/ayushupadhyay21/Ola-Project)
-
-</td>
-<td width="33%">
-
-**💰 EY Financial Risk**
-- Risk assessment models
-- Financial data analysis
-- Compliance reporting
-- [`View →`](https://github.com/ayushupadhyay21/EY-Financial-Risk-Dashboard)
-
-</td>
-<td width="33%">
-
-**🛠️ MySQL ETL Service**
-- Data pipeline automation
-- Service monitoring
-- Performance analytics
-- [`View →`](https://github.com/ayushupadhyay21/MySQL-ETL-Service-Dashboard)
+`Python` `Power BI` `SQL` `Analytics`
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>🔍 View More Projects</b></summary>
+<br>
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚖 [Ola Analytics](https://github.com/ayushupadhyay21/Ola-Project) | Ride cancellation insights & trip analysis | `SQL` `Power BI` `Analytics` |
+| 💰 [EY Financial Risk](https://github.com/ayushupadhyay21/EY-Financial-Risk-Dashboard) | Risk assessment & compliance reporting | `Python` `Finance` `Risk Analysis` |
+| 🛠️ [MySQL ETL Service](https://github.com/ayushupadhyay21/MySQL-ETL-Service-Dashboard) | Data pipeline automation & monitoring | `MySQL` `ETL` `Automation` |
+| 👷 [Go Worker Pool](https://github.com/ayushupadhyay21/go-worker-pool) | Concurrent processing with goroutines | `Go` `Concurrency` `Channels` |
+
+</details>
 
 </div>
 
@@ -156,10 +202,28 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushupadhyay21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushupadhyay21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="180em" />
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushupadhyay21&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushupadhyay21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushupadhyay21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushupadhyay21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushupadhyay21&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=ayushupadhyay21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -169,17 +233,57 @@
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[🧠 Machine Learning] --> B[☁️ Cloud Data Engineering]
-    B --> C[🚀 Scalable APIs]
-    C --> D[📊 Advanced Analytics]
-    D --> A
-```
+<table>
+<tr>
+<td align="center" width="25%">
 
-**🌱 Learning:** Advanced ML Algorithms, AWS/Azure Data Services, Microservices Architecture
+**🧠 Machine Learning**
 
-**💡 Building:** Next-gen data pipelines, AI-powered analytics tools, scalable backend systems
+<img src="https://img.shields.io/badge/Learning-Advanced_ML-FF6B6B?style=flat-square" />
+
+Deep Learning  
+Neural Networks  
+Model Optimization
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Cloud Engineering**
+
+<img src="https://img.shields.io/badge/Exploring-AWS/Azure-4ECDC4?style=flat-square" />
+
+Data Pipelines  
+Cloud Architecture  
+Serverless Computing
+
+</td>
+<td align="center" width="25%">
+
+**🚀 Scalable APIs**
+
+<img src="https://img.shields.io/badge/Building-Microservices-45B7D1?style=flat-square" />
+
+API Design  
+Performance Optimization  
+Distributed Systems
+
+</td>
+<td align="center" width="25%">
+
+**📊 Advanced Analytics**
+
+<img src="https://img.shields.io/badge/Creating-Insights-96CEB4?style=flat-square" />
+
+Real-time Analytics  
+Business Intelligence  
+Data Visualization
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Learning Path -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Currently+mastering+Advanced+ML+Algorithms;Building+scalable+data+pipelines+with+cloud+technologies;Developing+high-performance+backend+systems;Creating+AI-powered+analytics+solutions" alt="Current Focus" />
 
 </div>
 
@@ -187,16 +291,48 @@ graph LR
 
 <div align="center">
 
-### 💬 Let's Connect & Collaborate!
+## 💬 Let's Connect & Collaborate!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<table>
+<tr>
+<td align="center">
+
+**🤝 Professional**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-upadhyay-59b0901ab/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush@example.com)
 
-**⚡ Fun Fact:** I believe the best code is like a good story - it should be clear, engaging, and leave the reader wanting more! 📚✨
+</td>
+<td align="center">
+
+**💻 Development**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushupadhyay21)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](#)
+
+</td>
+<td align="center">
+
+**🌐 Social**
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
-*"Turning complex data into simple insights, one algorithm at a time"* 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=⚡+Fun+Fact%3A;The+best+code+is+like+a+good+story;Clear%2C+engaging%2C+and+memorable!+📚✨" alt="Fun Fact" />
+
+### *"Turning complex data into simple insights, one algorithm at a time"* 🚀
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 
 </div>
